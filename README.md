@@ -1,6 +1,8 @@
 # FamtamAI
  Fusion of AI Mocap Technology in Augmenting the Human Motion
 
+Youtube Link : https://www.youtube.com/watch?v=WEnoolpvbcU&t=82s 
+
 The recognition of actions holds a pivotal role across a spectrum of applications.
 This research works puts forth a novel approach aimed at discerning human actions by harnessing the wealth of data derived from motion capture actions.
 
